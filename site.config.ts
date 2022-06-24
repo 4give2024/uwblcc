@@ -22,6 +22,11 @@ export default siteConfig({
   //linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   youtube: 'channel/UCiCEBdwXwCGVkTdv8xSNEtw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  facebook: 'UWBLCC',
+  instagram: 'uwblcc',
+  discord: 'channels/898530896599195720/898530896599195723',
+  wechat: 'https://uwblcc.clubs.wusa.ca/images/wechat.jpg',
+  email: 'waterloo.blc.club@gmail.com',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

@@ -128,6 +128,27 @@
   border-color: #777;
 }
 
+.discord .actionBgPane {
+  background: #5865f2;
+}
+.discord:hover {
+  border-color: #5865f2;
+}
+
+.wechat .actionBgPane {
+  background: #2dc100;
+}
+.wechat:hover {
+  border-color: #2dc100;
+}
+
+.instagram .actionBgPane {
+  background: #c608b0;
+}
+.instagram:hover {
+  border-color: #c608b0;
+}
+
 @media only screen and (max-width: 768px) {
   .links {
     position: relative;
