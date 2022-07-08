@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'UWBLCC',
-  domain: 'uwblcc.vercel.app',
+  domain: 'uwblcc.ca',
   author: "University of Waterloo Buddha's Light Community Club",
 
   // open graph metadata (optional)
@@ -26,7 +26,7 @@ export default siteConfig({
   instagram: 'uwblcc',
   discord: 'channels/898530896599195720/898530896599195723',
   wechat: 'https://uwblcc.clubs.wusa.ca/images/wechat.jpg',
-  email: 'waterloo.blc.club@gmail.com',
+  email: 'info@uwblcc.ca',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
