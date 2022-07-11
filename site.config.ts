@@ -24,7 +24,7 @@ export default siteConfig({
   youtube: 'channel/UCiCEBdwXwCGVkTdv8xSNEtw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
   facebook: 'UWBLCC',
   instagram: 'uwblcc',
-  discord: 'channels/898530896599195720/898530896599195723',
+  discord: 'https://discord.gg/837NZufB',
   wechat: 'https://uwblcc.clubs.wusa.ca/images/wechat.jpg',
   email: 'info@uwblcc.ca',
 

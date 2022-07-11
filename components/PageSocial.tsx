@@ -103,7 +103,7 @@ const socialLinks: SocialLink[] = [
 
   config.discord && {
     name: 'discord',
-    href: `https://discord.com/${config.discord}`,
+    href: `${config.discord}`,
     title: `Discord ${config.author}`,
     icon: (
       <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
