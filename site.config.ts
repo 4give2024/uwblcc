@@ -14,7 +14,8 @@ export default siteConfig({
   author: "University of Waterloo Buddha's Light Community Club",
 
   // open graph metadata (optional)
-  description: "The official website of University of Waterloo Buddha's Light Community Club",
+  description:
+    "The official website of University of Waterloo Buddha's Light Community Club",
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
@@ -24,7 +25,7 @@ export default siteConfig({
   youtube: 'channel/UCiCEBdwXwCGVkTdv8xSNEtw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
   facebook: 'UWBLCC',
   instagram: 'uwblcc',
-  discord: 'https://discord.gg/837NZufB',
+  discord: 'https://discord.gg/VTMeGKJN5C',
   wechat: 'https://uwblcc.clubs.wusa.ca/images/wechat.jpg',
   email: 'info@uwblcc.ca',
 
